@@ -1,2 +1,9 @@
+EMILY RUIZ
+
+ADMINISTRACION DE EMPRESAS
+
+OCTAVO SEMESTRE 
+
 # PRECIOS-PRODUCTOS-CLASES
 Analizar las subidas ybajadas de precios 
+
