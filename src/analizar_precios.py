@@ -4,7 +4,7 @@ import pandas as pd
 productos = {
     "Producto": ["Arroz 2kg", "Aceite 1L", "Leche 1L", "Café 400g"],
     "Precio_anterior": [3.20, 2.75, 1.05, 4.80],
-    "Precio_actual": [3.45, 2.69, 1.12, 5.25]
+    "Precio_actual": [5.00, 2.69, 1.12, 5.25]
 }
 
 df = pd.DataFrame(productos)
